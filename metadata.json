@@ -1,0 +1,6 @@
+{
+  "name": "Polla Mundialista 2026",
+  "description": "Plataforma para llevar tu polla o quiniela del Mundial 2026 con tabla de posiciones, simulación de partidos y apuestas colectivas entre amigos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
